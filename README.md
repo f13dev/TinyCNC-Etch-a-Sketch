@@ -11,6 +11,7 @@ Stepper motor control pins
 * Z Axis - Pin 10
 * X Axis - Pin 11
 * Y Axis - Pin 12
+
 Rotary encoder pins
 * Encoder X Axis A - Pin 2
 * Encoder X Axis B - Pin 3
